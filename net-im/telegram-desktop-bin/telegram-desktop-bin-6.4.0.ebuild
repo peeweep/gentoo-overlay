@@ -16,7 +16,7 @@ S="${WORKDIR}/Telegram"
 
 LICENSE="GPL-3-with-openssl-exception"
 SLOT="0"
-KEYWORDS="-*"
+KEYWORDS="-* ~amd64"
 
 QA_PREBUILT="usr/bin/telegram-desktop"
 
